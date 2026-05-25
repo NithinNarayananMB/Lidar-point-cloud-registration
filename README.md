@@ -21,8 +21,9 @@ folder_path = r"upload your folderpath here"
 Step 4: Pick what you want to see
 There are two switches in the code. Change them to True or False depending on what you feel like looking at:
 
-Python
+
 VISUALIZE_REJECTED = True  # Pops open a 3D window to show you exactly WHY a pair failed
+
 VISUALIZE_PERFECT = False  # Set to False to let it silently save the good matches in the background
 
 Step 5: Let it run!
