@@ -1,6 +1,6 @@
 
 
-## 🛠️ How to Run This (The Easy Way)
+## 🛠️ How to Run This
 
 Want to test this out on your own computer? Just follow these quick steps:
 
@@ -39,6 +39,6 @@ Once the terminal says "BATCH PROCESSING COMPLETE", check your folder. You’ll 
 
 results.txt (A quick list of the perfect matches)
 
-batch_results.txt (The nerdy math and timing stats for the matches)
+batch_results.txt (The math and timing stats for the matches)
 
 rejected.txt (A list of exactly what failed and why)
